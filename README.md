@@ -1,7 +1,10 @@
+<!-- <h1 align="center"> Hello, I'm SOUMYA  👋</h1> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78437&lines=Hello+%F0%9F%91%8B%2C+I'm+SOUMYA 👨🏻‍💻; A+passionate+Backend+developer+from+India+&#128526;)](https://git.io/typing-svg)
+<!-- <h3 align="center">An enthusiastic Backend developer <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/man-technologist_1f468-200d-1f4bb.png" width="30" height = "30"></h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rav8657&label=Profile%20views&color=0e75b6&style=flat"
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78437&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumya👨🏻‍💻;An+enthusiast+Backend+developer+&#128526;)](https://git.io/typing-svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyakantid5&label=Profile%20views&color=0e75b6&style=flat"
         alt="SOUMYA DUTTA" /> </p>
 
 
