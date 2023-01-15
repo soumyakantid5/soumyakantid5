@@ -38,7 +38,7 @@
 <a href="https://leetcode.com/soumyakantid5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Soumya Leetcode Profile" height="30" width="40" /></a>
 </p>
 
-### Technologies
+### Tools & Technologies
  
  <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"
         rel="noreferrer"> <img
