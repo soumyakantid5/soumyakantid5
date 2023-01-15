@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate with **someone(beginner) who is working on a JS Project**
 - 🤝 I’m looking for help to **enhance my skills**
 - 💬 Ask me about **MERN**
-- 📫 If you want to talk to me feel free to email me at `soumyakantid5@gmail.com`
+- 📫 If you want to talk to me feel free to email me at **`soumyakantid5@gmail.com`**
 - 🙇‍♂️ Languages : `English` `Hindi` `Bengali`
 
 
