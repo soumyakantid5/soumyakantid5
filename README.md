@@ -33,18 +33,12 @@
 <br />
 
 ## Connect with Me
-<p align="left" target="_blank"> 
-<a href="https://www.linkedin.com/in/soumyakdutta/" target="_blank">
-<img alt=" Linkedin" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  width="50" height="50"><a/>
-        
-<a href="https://www.instagram.com/soumyad5/" target="_blank">
-<img alt=" Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  width="40" height="40"><a/>
- 
-<a href="https://leetcode.com/soumyakantid5/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"                    alt="Soumya Leetcode Profile" height="30" width="40" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/soumyakdutta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Soumya LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://www.instagram.com/soumyad5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Soumya Instagram" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Soumya9046/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Soumya FB" height="30" width="40" /></a>
+<a href="https://leetcode.com/soumyakantid5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Soumya Leetcode Profile" height="30" width="40" /></a>
 </p>
- 
- 
 
 ### Technologies
  
