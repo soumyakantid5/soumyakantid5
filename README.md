@@ -37,11 +37,8 @@
 <a href="https://www.linkedin.com/in/soumyakdutta/" target="_blank">
 <img alt=" Linkedin" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  width="50" height="50"><a/>
         
-<a href="https://www.instagram.com/soumyad5/" target="_blank">
-<img alt=" Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  width="40" height="40">
-<a/>
-        
-
+        <a href="https://www.instagram.com/soumyad5/" target="_blank">
+        <img alt=" Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  width="40" height="40"><a/>
 </p>
  
  
