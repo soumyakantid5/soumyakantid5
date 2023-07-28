@@ -18,9 +18,8 @@
 <!-- ##  Open-Source enthusiast || Coder !! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me!+&#129321;)](https://git.io/typing-svg)
   ## ***Hey 👋, I'm Soumya Dutta!😜***         
-- 🔭 I’m currently working on **Some backend projects**
-- 🌱 I’m currently learning **Javascript,nodeJs,MongoDB,Express,Redis**
-- 👯 I’m looking to collaborate with **someone(beginner) who is working on a JS Project**
+- 🔭 I’m currently working on **Some backend projects @LendeClub**
+- 🌱 I’m currently learning **Javascript, NodeJs, MongoDB, Express, Python**
 - 🤝 I’m looking for help to **enhance my skills**
 - 💬 Ask me about **MERN**
 - 📫 If you want to talk to me feel free to email me at **soumyakantid5@gmail.com**
